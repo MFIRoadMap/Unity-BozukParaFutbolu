@@ -1,6 +1,7 @@
 # BozukParaFutbolu-Unity
 
-* Universietnin 2. sınıfında Unity kullanarak gerçekleştirdiğim BozukParaFutbolu projemi paylaşıyorum.
+Universietnin 2. sınıfında Unity kullanarak gerçekleştirdiğim BozukParaFutbolu projemi paylaşıyorum.
+
 * Oyunda zamana karşı, tek kişilik ve iki kişilik oyun modları bulunuyor.
 * J,K ve L tuşlarıyla tuşlarıyla atılmak istenen para seçimi yapılıyor.
 * Yön tışlarıyla paranın atılacağı doğrultu belirleniyor. 
